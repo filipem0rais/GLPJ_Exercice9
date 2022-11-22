@@ -8,10 +8,10 @@
  */
 public class Item
 {
-    private String title;
-    private int playingTime;
-    private boolean gotIt;
-    private String comment;
+    protected String title;
+    protected int playingTime;
+    protected boolean gotIt;
+    protected String comment;
 
     /**
      * Initialise les champs de l'élément.
